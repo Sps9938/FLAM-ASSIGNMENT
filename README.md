@@ -14,7 +14,7 @@ I didn't want it to just snap directly to your cursor because that looks stiff a
 Simply open `index.html` in any modern web browser.
 
 ## Demo Video
-![Screen Recording](Flam.mp4)
+<video src="Flam.mp4" controls width="600"></video>
 
 
 ## Technical Implementation
