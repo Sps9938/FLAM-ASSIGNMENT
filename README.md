@@ -13,6 +13,10 @@ I didn't want it to just snap directly to your cursor because that looks stiff a
 ## How to Run
 Simply open `index.html` in any modern web browser.
 
+## Demo Video
+![Screen Recording](Flam.mp4)
+
+
 ## Technical Implementation
 
 ### 1. Bézier Curve Math
