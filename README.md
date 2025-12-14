@@ -14,8 +14,9 @@ I didn't want it to just snap directly to your cursor because that looks stiff a
 Simply open `index.html` in any modern web browser.
 
 ## Demo Video
-<video src="Flam.mp4" controls width="600"></video>
+[**▶️ Watch the Demo Video (Flam.mp4)**](Flam.mp4)
 
+*(Note: GitHub and many markdown viewers do not support embedded MP4 players. Click the link above to play the video directly.)*
 
 ## Technical Implementation
 
